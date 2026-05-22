@@ -30,6 +30,8 @@ If you select text first, it copies just the selection. Otherwise it copies the 
 
 Go to Settings → Clean Copy to toggle what gets removed. Everything is on by default except the Markdown formatting stripping.
 
+![Settings](docs/readme/image.png)
+
 ---
 
 ## Author
